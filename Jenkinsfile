@@ -1,7 +1,7 @@
 pipeline {
     agent any
    tools {
-        maven 'MyMaven'  // Name of the configured tool
+        maven 'mymaven'  // Name of the configured tool
     }
  
     stages {
